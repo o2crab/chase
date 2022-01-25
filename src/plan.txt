@@ -1,0 +1,4 @@
+create 4D chase game
+
+first goal
+show 4D coordinate using numbers.
